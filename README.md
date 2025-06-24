@@ -41,7 +41,7 @@ personal-finance-dashboard/
 - Exportable monthly reports in PDF format
 
 ## About the Author
-Created by [Shivani](https://github.com/shivani-dataportfolio) as part of a professional data analytics portfolio.  
+Created by [Shivani](https://github.com/shivani-dataportfolio).  
 This project demonstrates hands-on skills in Power BI and financial data storytelling.
 
 ## References
